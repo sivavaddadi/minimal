@@ -1,19 +1,19 @@
-# Data Science Portfolio
+# Siva's Wish list
 ---
 ## Machine learning
 
-### Fraud Detection
+### Test Automation
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+Using Gen AI I would like to build a Test Automation tool that generates unit and ee tests based on code.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/)
 
 This is just a collection of topics and algorithms that in my opinion are interesting.
 
