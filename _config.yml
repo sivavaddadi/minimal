@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Siva Vaddadi </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/siva-vaddadi-6a373634/">LinkedIn</a> |
+  <a href="https://github.com/sivavaddadi">GitHub</a>
+  
+  <br>   
+  I'm software engineer.
+  Also learning AI/ML.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
